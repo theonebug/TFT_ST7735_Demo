@@ -1,0 +1,17 @@
+# Build output
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.a
+*.d
+
+# IDE metadata (machine-specific)
+.settings/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
